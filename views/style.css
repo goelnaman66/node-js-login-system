@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    background-color: grey;
+}
+
+li {
+    list-style: none;
+    padding: 15px 15px;
+    color: white;
+}
+
+h1 {
+    margin: 12px auto;
+}
+
+input {
+    display: block;
+    padding: 10px;
+    margin: 10px;
+}
